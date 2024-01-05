@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\bin\Debug\net7.0\LAB-OOP2.exe
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\bin\Debug\net7.0\LAB-OOP2.deps.json
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\bin\Debug\net7.0\LAB-OOP2.runtimeconfig.json
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\bin\Debug\net7.0\LAB-OOP2.dll
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\bin\Debug\net7.0\LAB-OOP2.pdb
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\LAB-OOP2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\LAB-OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\LAB-OOP2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\LAB-OOP2.AssemblyInfo.cs
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\LAB-OOP2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\LAB-OOP2.dll
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\refint\LAB-OOP2.dll
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\LAB-OOP2.pdb
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\LAB-OOP2.genruntimeconfig.cache
+C:\Users\User\Desktop\LAB-OOP2\LAB-OOP2\obj\Debug\net7.0\ref\LAB-OOP2.dll
